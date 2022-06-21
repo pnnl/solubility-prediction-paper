@@ -1,7 +1,7 @@
 # Code for the models in the paper: Predicting Aqueous Solubility of Organic Molecules Using Deep Learning Models with Varied Molecular Representations (https://arxiv.org/abs/2105.12638)
 
 #### Usage
-1. Download data from https://figshare.com/s/6258a546a27a2373bf2a/articles/14558808 and save it as data.csv in the ./data folder
+1. Download data from https://figshare.com/s/542fb80e65742746603c and save it as data.csv in the ./data folder
 2. Generate Pybel coordinates and MDM features by running create_data.py at the ./data folder
 3. To train MDM, GNN, SMI and SCH models run train.py at ./mdm, ./gnn, ./smi and ./sch folderes respectively.
 4. To make predictions use predict.ipynb files at each model folders.
