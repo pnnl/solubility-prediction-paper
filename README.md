@@ -1,4 +1,4 @@
-# Code for the models in the paper: Predicting Aqueous Solubility of Organic Molecules Using Deep Learning Models with Varied Molecular Representations (https://arxiv.org/abs/2105.12638)
+# Code for the models in the paper: Predicting Aqueous Solubility of Organic Molecules Using Deep Learning Models with Varied Molecular Representations (https://pubs.acs.org/doi/full/10.1021/acsomega.2c00642)
 
 #### Usage
 1. Download data from https://figshare.com/s/542fb80e65742746603c and save it as data.csv in the ./data folder
