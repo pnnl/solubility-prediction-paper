@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # Code for the models in the paper: Predicting Aqueous Solubility of Organic Molecules Using Deep Learning Models with Varied Molecular Representations (https://pubs.acs.org/doi/full/10.1021/acsomega.2c00642)
 
 #### Usage
